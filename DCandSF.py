@@ -2,7 +2,7 @@ import tkinter as tk
 import datetime
 import threading
 
-# I'm  very sad and lonely I didn't mean to touch him
+# I'm very sad and lonely I didn't mean to touch him
 
 dc_time = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-5)))
 sf_time = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-8)))
